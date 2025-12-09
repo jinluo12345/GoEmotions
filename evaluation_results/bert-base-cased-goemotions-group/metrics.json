@@ -1,0 +1,56 @@
+{
+    "model_path": "/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/bert-base-cased-goemotions-group",
+    "backend": "bert",
+    "use_cot": false,
+    "exact_match_accuracy": 0.5505804311774462,
+    "classification_report": {
+        "ambiguous": {
+            "precision": 0.5316593886462883,
+            "recall": 0.7193500738552437,
+            "f1-score": 0.6114249843063403,
+            "support": 677.0
+        },
+        "negative": {
+            "precision": 0.6507713884992987,
+            "recall": 0.7353407290015848,
+            "f1-score": 0.6904761904761905,
+            "support": 1262.0
+        },
+        "neutral": {
+            "precision": 0.5717592592592593,
+            "recall": 0.8293228875209849,
+            "f1-score": 0.6768668645809546,
+            "support": 1787.0
+        },
+        "positive": {
+            "precision": 0.8223374175306315,
+            "recall": 0.8293726235741445,
+            "f1-score": 0.8258400378608614,
+            "support": 2104.0
+        },
+        "micro avg": {
+            "precision": 0.6578798185941043,
+            "recall": 0.7962264150943397,
+            "f1-score": 0.720471829892907,
+            "support": 5830.0
+        },
+        "macro avg": {
+            "precision": 0.6441318634838695,
+            "recall": 0.7783465784879895,
+            "f1-score": 0.7011520193060866,
+            "support": 5830.0
+        },
+        "weighted avg": {
+            "precision": 0.6746378423980098,
+            "recall": 0.7962264150943397,
+            "f1-score": 0.7259767055611943,
+            "support": 5830.0
+        },
+        "samples avg": {
+            "precision": 0.7084331429273387,
+            "recall": 0.807782077267981,
+            "f1-score": 0.7354339414040906,
+            "support": 5830.0
+        }
+    }
+}

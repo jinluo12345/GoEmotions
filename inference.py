@@ -13,9 +13,9 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # 默认路径配置
 DEFAULT_MODEL_PATH = '/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen3-8B/'
-DEFAULT_LABEL_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/GoEmotions-pytorch/data/group/labels.txt"
-DEFAULT_TEST_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/GoEmotions-pytorch/data/group/test.tsv"
-DEFAULT_OUTPUT_DIR = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/GoEmotions-pytorch/evaluation_results"
+DEFAULT_LABEL_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/labels.txt"
+DEFAULT_TEST_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/test.tsv"
+DEFAULT_OUTPUT_DIR = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/evaluation_results"
 
 def load_labels(label_path: str) -> List[str]:
     if not os.path.exists(label_path):

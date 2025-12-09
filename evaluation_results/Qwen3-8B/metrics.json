@@ -1,0 +1,56 @@
+{
+    "model_path": "/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen3-8B/",
+    "backend": "vllm",
+    "use_cot": false,
+    "exact_match_accuracy": 0.46121245623733187,
+    "classification_report": {
+        "ambiguous": {
+            "precision": 0.43478260869565216,
+            "recall": 0.029542097488921712,
+            "f1-score": 0.05532503457814661,
+            "support": 677.0
+        },
+        "negative": {
+            "precision": 0.42117117117117114,
+            "recall": 0.8890649762282092,
+            "f1-score": 0.5715741212429954,
+            "support": 1262.0
+        },
+        "neutral": {
+            "precision": 0.446985446985447,
+            "recall": 0.3609401231113598,
+            "f1-score": 0.3993808049535604,
+            "support": 1787.0
+        },
+        "positive": {
+            "precision": 0.7847919655667145,
+            "recall": 0.5199619771863118,
+            "f1-score": 0.6255002858776444,
+            "support": 2104.0
+        },
+        "micro avg": {
+            "precision": 0.5193798449612403,
+            "recall": 0.4941680960548885,
+            "f1-score": 0.5064604025665816,
+            "support": 5830.0
+        },
+        "macro avg": {
+            "precision": 0.5219327981047462,
+            "recall": 0.44987729350370065,
+            "f1-score": 0.4129450616630867,
+            "support": 5830.0
+        },
+        "weighted avg": {
+            "precision": 0.5618921326621501,
+            "recall": 0.4941680960548885,
+            "f1-score": 0.4783066362532833,
+            "support": 5830.0
+        },
+        "samples avg": {
+            "precision": 0.5198083655795098,
+            "recall": 0.5019347705914871,
+            "f1-score": 0.5053743627541306,
+            "support": 5830.0
+        }
+    }
+}

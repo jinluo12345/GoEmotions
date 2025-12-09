@@ -1,0 +1,3520 @@
+[
+    {
+        "id": 0,
+        "text": "I’m really sorry about your situation :( Although I love the names Sapphira, Cirilla, and Scarlett!",
+        "predicted_labels": [
+            "negative",
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": ":(",
+                "attention_score": 0.01415252685546875
+            },
+            {
+                "word": "Although",
+                "attention_score": 0.01058197021484375
+            },
+            {
+                "word": "sorry",
+                "attention_score": 0.0085296630859375
+            },
+            {
+                "word": "situation",
+                "attention_score": 0.005428314208984375
+            },
+            {
+                "word": "the",
+                "attention_score": 0.003528594970703125
+            },
+            {
+                "word": "love",
+                "attention_score": 0.0034389495849609375
+            },
+            {
+                "word": "your",
+                "attention_score": 0.003246307373046875
+            },
+            {
+                "word": "I’m",
+                "attention_score": 0.003231048583984375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 1,
+        "text": "It's wonderful because it's awful. At not with.",
+        "predicted_labels": [
+            "negative",
+            "ambiguous"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "awful.",
+                "attention_score": 0.017303466796875
+            },
+            {
+                "word": "wonderful",
+                "attention_score": 0.0080108642578125
+            },
+            {
+                "word": "because",
+                "attention_score": 0.00473785400390625
+            },
+            {
+                "word": "It's",
+                "attention_score": 0.002819061279296875
+            },
+            {
+                "word": "with.",
+                "attention_score": 0.002803802490234375
+            },
+            {
+                "word": "At",
+                "attention_score": 0.0026302337646484375
+            },
+            {
+                "word": "not",
+                "attention_score": 0.0016984939575195312
+            },
+            {
+                "word": "it's",
+                "attention_score": 0.000980377197265625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 2,
+        "text": "Kings fan here, good luck to you guys! Will be an interesting game to watch! ",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "guys!",
+                "attention_score": 0.00820159912109375
+            },
+            {
+                "word": "watch!",
+                "attention_score": 0.00728607177734375
+            },
+            {
+                "word": "luck",
+                "attention_score": 0.00447845458984375
+            },
+            {
+                "word": "here,",
+                "attention_score": 0.004077911376953125
+            },
+            {
+                "word": "game",
+                "attention_score": 0.00405120849609375
+            },
+            {
+                "word": "interesting",
+                "attention_score": 0.00376129150390625
+            },
+            {
+                "word": "good",
+                "attention_score": 0.00347137451171875
+            },
+            {
+                "word": "fan",
+                "attention_score": 0.002552032470703125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 3,
+        "text": "I didn't know that, thank you for teaching me something today!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "thank",
+                "attention_score": 0.0068511962890625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.00490570068359375
+            },
+            {
+                "word": "you",
+                "attention_score": 0.004840850830078125
+            },
+            {
+                "word": "today!",
+                "attention_score": 0.004608154296875
+            },
+            {
+                "word": "teaching",
+                "attention_score": 0.0042724609375
+            },
+            {
+                "word": "didn't",
+                "attention_score": 0.00400543212890625
+            },
+            {
+                "word": "that,",
+                "attention_score": 0.0031032562255859375
+            },
+            {
+                "word": "something",
+                "attention_score": 0.002918243408203125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 4,
+        "text": "They got bored from haunting earth for thousands of years and ultimately moved on to the afterlife.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.006984710693359375
+            },
+            {
+                "word": "bored",
+                "attention_score": 0.0035724639892578125
+            },
+            {
+                "word": "They",
+                "attention_score": 0.003570556640625
+            },
+            {
+                "word": "and",
+                "attention_score": 0.003139495849609375
+            },
+            {
+                "word": "haunting",
+                "attention_score": 0.00223541259765625
+            },
+            {
+                "word": "afterlife.",
+                "attention_score": 0.00176239013671875
+            },
+            {
+                "word": "from",
+                "attention_score": 0.0016622543334960938
+            },
+            {
+                "word": "ultimately",
+                "attention_score": 0.0016336441040039062
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 5,
+        "text": "Thank you for asking questions and recognizing that there may be things that you don’t know or understand about police tactics. Seriously. Thank you.",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Thank",
+                "attention_score": 0.00734710693359375
+            },
+            {
+                "word": "tactics.",
+                "attention_score": 0.0072784423828125
+            },
+            {
+                "word": "Thank",
+                "attention_score": 0.00608062744140625
+            },
+            {
+                "word": "you.",
+                "attention_score": 0.006000518798828125
+            },
+            {
+                "word": "Seriously.",
+                "attention_score": 0.0055694580078125
+            },
+            {
+                "word": "you",
+                "attention_score": 0.0034694671630859375
+            },
+            {
+                "word": "don’t",
+                "attention_score": 0.0034542083740234375
+            },
+            {
+                "word": "questions",
+                "attention_score": 0.0029964447021484375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 6,
+        "text": "You’re welcome",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"You’re welcome\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>neutral</answer>",
+        "predicted_ids": [
+            2
+        ],
+        "predicted_labels": [
+            "neutral"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 7,
+        "text": "100%! Congrats on your job too!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Congrats",
+                "attention_score": 0.00778961181640625
+            },
+            {
+                "word": "too!",
+                "attention_score": 0.00579833984375
+            },
+            {
+                "word": "100%!",
+                "attention_score": 0.0048065185546875
+            },
+            {
+                "word": "job",
+                "attention_score": 0.0026569366455078125
+            },
+            {
+                "word": "on",
+                "attention_score": 0.00244140625
+            },
+            {
+                "word": "your",
+                "attention_score": 0.001667022705078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 8,
+        "text": "I’m sorry to hear that friend :(. It’s for the best most likely if she didn’t accept you for who you are",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"I’m sorry to hear that friend :(. It’s for the best most likely if she didn’t accept you for who you are\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 9,
+        "text": "Girlfriend weak as well, that jump was pathetic.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "pathetic.",
+                "attention_score": 0.011383056640625
+            },
+            {
+                "word": "well,",
+                "attention_score": 0.004497528076171875
+            },
+            {
+                "word": "that",
+                "attention_score": 0.004230499267578125
+            },
+            {
+                "word": "Girlfriend",
+                "attention_score": 0.003383636474609375
+            },
+            {
+                "word": "weak",
+                "attention_score": 0.003093719482421875
+            },
+            {
+                "word": "as",
+                "attention_score": 0.0028133392333984375
+            },
+            {
+                "word": "jump",
+                "attention_score": 0.0025157928466796875
+            },
+            {
+                "word": "was",
+                "attention_score": 0.002361297607421875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 10,
+        "text": "[NAME] has towed the line of the Dark Side. He wouldn't cross it by doing something like this.",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"[NAME] has towed the line of the Dark Side. He wouldn't cross it by doing something like this.\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 11,
+        "text": "Lol! But I love your last name though. XD",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Lol! But I love your last name though. XD\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>positive</answer>",
+        "predicted_ids": [
+            3
+        ],
+        "predicted_labels": [
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 12,
+        "text": "Translation }}} I wish I could afford it.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "wish",
+                "attention_score": 0.00887298583984375
+            },
+            {
+                "word": "afford",
+                "attention_score": 0.00618743896484375
+            },
+            {
+                "word": "}}}",
+                "attention_score": 0.005649566650390625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.00531005859375
+            },
+            {
+                "word": "Translation",
+                "attention_score": 0.00511932373046875
+            },
+            {
+                "word": "it.",
+                "attention_score": 0.004589080810546875
+            },
+            {
+                "word": "I",
+                "attention_score": 0.003940582275390625
+            },
+            {
+                "word": "could",
+                "attention_score": 0.0019245147705078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 13,
+        "text": "It's great that you're a recovering addict, that's cool. Have you ever tried DMT?",
+        "predicted_labels": [
+            "positive",
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "cool.",
+                "attention_score": 0.01287841796875
+            },
+            {
+                "word": "great",
+                "attention_score": 0.0058135986328125
+            },
+            {
+                "word": "addict,",
+                "attention_score": 0.005374908447265625
+            },
+            {
+                "word": "recovering",
+                "attention_score": 0.00335693359375
+            },
+            {
+                "word": "It's",
+                "attention_score": 0.002658843994140625
+            },
+            {
+                "word": "you",
+                "attention_score": 0.002532958984375
+            },
+            {
+                "word": "that's",
+                "attention_score": 0.002498626708984375
+            },
+            {
+                "word": "that",
+                "attention_score": 0.00246429443359375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 14,
+        "text": "I've also heard that intriguing but also kinda scary",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"I've also heard that intriguing but also kinda scary\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>positive, negative</answer>",
+        "predicted_ids": [
+            1,
+            3
+        ],
+        "predicted_labels": [
+            "negative",
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 15,
+        "text": "I never wanted to punch osap harder after seeing that However not too hardly I cant afford them taking everything away",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"I never wanted to punch osap harder after seeing that However not too hardly I cant afford them taking everything away\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 16,
+        "text": "The thought of shooting anything at asylum seekers is appalling.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "appalling.",
+                "attention_score": 0.01523590087890625
+            },
+            {
+                "word": "is",
+                "attention_score": 0.007289886474609375
+            },
+            {
+                "word": "The",
+                "attention_score": 0.00435638427734375
+            },
+            {
+                "word": "seekers",
+                "attention_score": 0.0032405853271484375
+            },
+            {
+                "word": "shooting",
+                "attention_score": 0.003215789794921875
+            },
+            {
+                "word": "thought",
+                "attention_score": 0.0027103424072265625
+            },
+            {
+                "word": "asylum",
+                "attention_score": 0.0020465850830078125
+            },
+            {
+                "word": "anything",
+                "attention_score": 0.0019283294677734375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 17,
+        "text": "if the pain doesn't go away after 4 hours or so, it's broke.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "broke.",
+                "attention_score": 0.005893707275390625
+            },
+            {
+                "word": "pain",
+                "attention_score": 0.005550384521484375
+            },
+            {
+                "word": "if",
+                "attention_score": 0.004924774169921875
+            },
+            {
+                "word": "so,",
+                "attention_score": 0.003940582275390625
+            },
+            {
+                "word": "hours",
+                "attention_score": 0.003208160400390625
+            },
+            {
+                "word": "doesn't",
+                "attention_score": 0.0031890869140625
+            },
+            {
+                "word": "away",
+                "attention_score": 0.00316619873046875
+            },
+            {
+                "word": "it's",
+                "attention_score": 0.0026397705078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 18,
+        "text": "Triggered:: Welp guess it's time for me to re-up lol",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Triggered:: Welp guess it's time for me to re-up lol\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 19,
+        "text": "I'm autistic and I'd appreciate if you remove that comment. Thanks.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "comment.",
+                "attention_score": 0.010284423828125
+            },
+            {
+                "word": "autistic",
+                "attention_score": 0.00859832763671875
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0068206787109375
+            },
+            {
+                "word": "Thanks.",
+                "attention_score": 0.006191253662109375
+            },
+            {
+                "word": "remove",
+                "attention_score": 0.003948211669921875
+            },
+            {
+                "word": "appreciate",
+                "attention_score": 0.003932952880859375
+            },
+            {
+                "word": "I'm",
+                "attention_score": 0.0031642913818359375
+            },
+            {
+                "word": "that",
+                "attention_score": 0.0025463104248046875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 20,
+        "text": "I know you're joking, but there are people here either stupid or desperate enough to believe and perpetuate such idiocy. ",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "idiocy.",
+                "attention_score": 0.0088653564453125
+            },
+            {
+                "word": "joking,",
+                "attention_score": 0.004245758056640625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.003505706787109375
+            },
+            {
+                "word": "but",
+                "attention_score": 0.0026531219482421875
+            },
+            {
+                "word": "stupid",
+                "attention_score": 0.002422332763671875
+            },
+            {
+                "word": "desperate",
+                "attention_score": 0.00241851806640625
+            },
+            {
+                "word": "there",
+                "attention_score": 0.0023517608642578125
+            },
+            {
+                "word": "or",
+                "attention_score": 0.00217437744140625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 21,
+        "text": "May regret asking but foid ?",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"May regret asking but foid ?\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 22,
+        "text": "After he left the bus, the two harpies sat next to each other and discussed why they were unable to find a decent man.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "each",
+                "attention_score": 0.005615234375
+            },
+            {
+                "word": "After",
+                "attention_score": 0.004383087158203125
+            },
+            {
+                "word": "discussed",
+                "attention_score": 0.0033016204833984375
+            },
+            {
+                "word": "the",
+                "attention_score": 0.002628326416015625
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0026111602783203125
+            },
+            {
+                "word": "man.",
+                "attention_score": 0.0022678375244140625
+            },
+            {
+                "word": "harpies",
+                "attention_score": 0.00205230712890625
+            },
+            {
+                "word": "the",
+                "attention_score": 0.0020008087158203125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 23,
+        "text": "Well, there's cubs and otters too.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Well,",
+                "attention_score": 0.004161834716796875
+            },
+            {
+                "word": "too.",
+                "attention_score": 0.0033111572265625
+            },
+            {
+                "word": "cubs",
+                "attention_score": 0.0024929046630859375
+            },
+            {
+                "word": "and",
+                "attention_score": 0.002410888671875
+            },
+            {
+                "word": "there's",
+                "attention_score": 0.0018768310546875
+            },
+            {
+                "word": "otters",
+                "attention_score": 0.0017185211181640625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 24,
+        "text": "Watch Vegan Gains’ video on that, he had it when he was like 13, highly doubt he was juicing then",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Watch Vegan Gains’ video on that, he had it when he was like 13, highly doubt he was juicing then\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            0,
+            2
+        ],
+        "ground_truth_labels": [
+            "ambiguous",
+            "neutral"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 25,
+        "text": "Again, overall, not just for me. ",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "me.",
+                "attention_score": 0.00522613525390625
+            },
+            {
+                "word": "overall,",
+                "attention_score": 0.00432586669921875
+            },
+            {
+                "word": "Again,",
+                "attention_score": 0.003726959228515625
+            },
+            {
+                "word": "not",
+                "attention_score": 0.003208160400390625
+            },
+            {
+                "word": "for",
+                "attention_score": 0.0018358230590820312
+            },
+            {
+                "word": "just",
+                "attention_score": 0.0017690658569335938
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 26,
+        "text": "This guy is a little turd but I love him so dearly. I'll pass on your kisses :)",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"This guy is a little turd but I love him so dearly. I'll pass on your kisses :)\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>negative, positive</answer>",
+        "predicted_ids": [
+            1,
+            3
+        ],
+        "predicted_labels": [
+            "negative",
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 27,
+        "text": "Possibly, but not if it actually succedes",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "but",
+                "attention_score": 0.0062255859375
+            },
+            {
+                "word": "Possibly,",
+                "attention_score": 0.00476837158203125
+            },
+            {
+                "word": "succedes",
+                "attention_score": 0.00469207763671875
+            },
+            {
+                "word": "if",
+                "attention_score": 0.0041656494140625
+            },
+            {
+                "word": "not",
+                "attention_score": 0.00255584716796875
+            },
+            {
+                "word": "actually",
+                "attention_score": 0.002223968505859375
+            },
+            {
+                "word": "it",
+                "attention_score": 0.0019216537475585938
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 28,
+        "text": "Same here but it seems like that will make it more rewarding to actually build a base with gardens and stuff.",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "rewarding",
+                "attention_score": 0.0090789794921875
+            },
+            {
+                "word": "here",
+                "attention_score": 0.00572967529296875
+            },
+            {
+                "word": "Same",
+                "attention_score": 0.004062652587890625
+            },
+            {
+                "word": "but",
+                "attention_score": 0.0037631988525390625
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0033626556396484375
+            },
+            {
+                "word": "to",
+                "attention_score": 0.0032558441162109375
+            },
+            {
+                "word": "gardens",
+                "attention_score": 0.002681732177734375
+            },
+            {
+                "word": "stuff.",
+                "attention_score": 0.0025844573974609375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 29,
+        "text": "What's your source for that? Just curious (and yes I know it sounds like a tired contrarian statement).",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "statement).",
+                "attention_score": 0.0079193115234375
+            },
+            {
+                "word": "curious",
+                "attention_score": 0.004314422607421875
+            },
+            {
+                "word": "(and",
+                "attention_score": 0.004184722900390625
+            },
+            {
+                "word": "that?",
+                "attention_score": 0.0036716461181640625
+            },
+            {
+                "word": "contrarian",
+                "attention_score": 0.002605438232421875
+            },
+            {
+                "word": "source",
+                "attention_score": 0.0024585723876953125
+            },
+            {
+                "word": "yes",
+                "attention_score": 0.0023937225341796875
+            },
+            {
+                "word": "tired",
+                "attention_score": 0.002227783203125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 30,
+        "text": "NJ has zero of their own picks from the 2010 draft still in the org",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"NJ has zero of their own picks from the 2010 draft still in the org\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 31,
+        "text": "What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"What's that like? Like what's the thought process? I dunno. I know what's a weird question..i just can't imagine\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>neutral</answer>",
+        "predicted_ids": [
+            2
+        ],
+        "predicted_labels": [
+            "neutral"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 32,
+        "text": "Imagine having to pretend you didn't edit your link. The inferiority is dripping off you.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "is",
+                "attention_score": 0.00682830810546875
+            },
+            {
+                "word": "The",
+                "attention_score": 0.005855560302734375
+            },
+            {
+                "word": "Imagine",
+                "attention_score": 0.0037784576416015625
+            },
+            {
+                "word": "link.",
+                "attention_score": 0.00350189208984375
+            },
+            {
+                "word": "inferiority",
+                "attention_score": 0.0034542083740234375
+            },
+            {
+                "word": "dripping",
+                "attention_score": 0.0034275054931640625
+            },
+            {
+                "word": "you.",
+                "attention_score": 0.002742767333984375
+            },
+            {
+                "word": "didn't",
+                "attention_score": 0.0026073455810546875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 33,
+        "text": "I'm going to hold out hope for something minor even though it looked really bad. Just going to wait for the official news.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "bad.",
+                "attention_score": 0.0089263916015625
+            },
+            {
+                "word": "the",
+                "attention_score": 0.0084381103515625
+            },
+            {
+                "word": "even",
+                "attention_score": 0.00386810302734375
+            },
+            {
+                "word": "hope",
+                "attention_score": 0.00321197509765625
+            },
+            {
+                "word": "minor",
+                "attention_score": 0.003021240234375
+            },
+            {
+                "word": "I'm",
+                "attention_score": 0.00274658203125
+            },
+            {
+                "word": "news.",
+                "attention_score": 0.0026569366455078125
+            },
+            {
+                "word": "though",
+                "attention_score": 0.0025634765625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 34,
+        "text": "i mean, yeah tbh.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "i",
+                "attention_score": 0.006168365478515625
+            },
+            {
+                "word": "mean,",
+                "attention_score": 0.00551605224609375
+            },
+            {
+                "word": "yeah",
+                "attention_score": 0.005237579345703125
+            },
+            {
+                "word": "tbh.",
+                "attention_score": 0.00380706787109375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 35,
+        "text": "\"We need more content.\" \"OK. here's some ballerina shoes.\"",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"\"We need more content.\" \"OK. here's some ballerina shoes.\"\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 36,
+        "text": "I totally thought the same thing! I was like, oh honey nooooo!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "thing!",
+                "attention_score": 0.00952911376953125
+            },
+            {
+                "word": "I",
+                "attention_score": 0.004764556884765625
+            },
+            {
+                "word": "thought",
+                "attention_score": 0.0041046142578125
+            },
+            {
+                "word": "same",
+                "attention_score": 0.00403594970703125
+            },
+            {
+                "word": "totally",
+                "attention_score": 0.0035686492919921875
+            },
+            {
+                "word": "nooooo!",
+                "attention_score": 0.003208160400390625
+            },
+            {
+                "word": "the",
+                "attention_score": 0.00310516357421875
+            },
+            {
+                "word": "I",
+                "attention_score": 0.002887725830078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 37,
+        "text": "Hey that's a thought! Maybe we need [NAME] to be the celebrity vaccine endorsement!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "thought!",
+                "attention_score": 0.00853729248046875
+            },
+            {
+                "word": "vaccine",
+                "attention_score": 0.0039825439453125
+            },
+            {
+                "word": "Maybe",
+                "attention_score": 0.00380706787109375
+            },
+            {
+                "word": "Hey",
+                "attention_score": 0.0036334991455078125
+            },
+            {
+                "word": "endorsement!",
+                "attention_score": 0.0036258697509765625
+            },
+            {
+                "word": "celebrity",
+                "attention_score": 0.003330230712890625
+            },
+            {
+                "word": "[NAME]",
+                "attention_score": 0.0032520294189453125
+            },
+            {
+                "word": "the",
+                "attention_score": 0.003192901611328125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 38,
+        "text": "I like to bring up the fact that all of these pyramid schemes have corporate offices that have the exact same structure they are railing against.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "like",
+                "attention_score": 0.005313873291015625
+            },
+            {
+                "word": "have",
+                "attention_score": 0.004535675048828125
+            },
+            {
+                "word": "schemes",
+                "attention_score": 0.004032135009765625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.0039520263671875
+            },
+            {
+                "word": "the",
+                "attention_score": 0.003940582275390625
+            },
+            {
+                "word": "against.",
+                "attention_score": 0.0037784576416015625
+            },
+            {
+                "word": "railing",
+                "attention_score": 0.003414154052734375
+            },
+            {
+                "word": "fact",
+                "attention_score": 0.002582550048828125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 39,
+        "text": "in what universe? lol the mr. blue sky cover is one of the best on the album imo.",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "lol",
+                "attention_score": 0.00940704345703125
+            },
+            {
+                "word": "the",
+                "attention_score": 0.00853729248046875
+            },
+            {
+                "word": "imo.",
+                "attention_score": 0.008148193359375
+            },
+            {
+                "word": "the",
+                "attention_score": 0.005584716796875
+            },
+            {
+                "word": "the",
+                "attention_score": 0.005176544189453125
+            },
+            {
+                "word": "universe?",
+                "attention_score": 0.004703521728515625
+            },
+            {
+                "word": "best",
+                "attention_score": 0.00411224365234375
+            },
+            {
+                "word": "in",
+                "attention_score": 0.003662109375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 40,
+        "text": "You didn't watch it to the end.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.005977630615234375
+            },
+            {
+                "word": "didn't",
+                "attention_score": 0.00507354736328125
+            },
+            {
+                "word": "You",
+                "attention_score": 0.00482940673828125
+            },
+            {
+                "word": "end.",
+                "attention_score": 0.003780364990234375
+            },
+            {
+                "word": "watch",
+                "attention_score": 0.0030841827392578125
+            },
+            {
+                "word": "it",
+                "attention_score": 0.002841949462890625
+            },
+            {
+                "word": "to",
+                "attention_score": 0.0023860931396484375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 41,
+        "text": "please dont bring a woman in as a sex toy for you both. hire a sex worker instead",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"please dont bring a woman in as a sex toy for you both. hire a sex worker instead\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 42,
+        "text": "I think the fan base is mostly past that at this point. Almost everyone has MASSIVE problems with some of the decisions Nintendo makes.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.006458282470703125
+            },
+            {
+                "word": "point.",
+                "attention_score": 0.00548553466796875
+            },
+            {
+                "word": "I",
+                "attention_score": 0.00335693359375
+            },
+            {
+                "word": "makes.",
+                "attention_score": 0.0029964447021484375
+            },
+            {
+                "word": "Nintendo",
+                "attention_score": 0.0029449462890625
+            },
+            {
+                "word": "problems",
+                "attention_score": 0.0029048919677734375
+            },
+            {
+                "word": "decisions",
+                "attention_score": 0.002666473388671875
+            },
+            {
+                "word": "with",
+                "attention_score": 0.002628326416015625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 43,
+        "text": "so wont back up your words? thats how i thought this would go.justifies *everything* I HAVE SAID.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "words?",
+                "attention_score": 0.00528717041015625
+            },
+            {
+                "word": "go.justifies",
+                "attention_score": 0.00420379638671875
+            },
+            {
+                "word": "so",
+                "attention_score": 0.004116058349609375
+            },
+            {
+                "word": "SAID.",
+                "attention_score": 0.00374603271484375
+            },
+            {
+                "word": "thats",
+                "attention_score": 0.00341033935546875
+            },
+            {
+                "word": "*everything*",
+                "attention_score": 0.0027790069580078125
+            },
+            {
+                "word": "up",
+                "attention_score": 0.002071380615234375
+            },
+            {
+                "word": "wont",
+                "attention_score": 0.00202178955078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 44,
+        "text": "A surprise turn of events! I'm so glad you heard such great things about yourself!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "events!",
+                "attention_score": 0.007633209228515625
+            },
+            {
+                "word": "glad",
+                "attention_score": 0.0059661865234375
+            },
+            {
+                "word": "yourself!",
+                "attention_score": 0.00466156005859375
+            },
+            {
+                "word": "so",
+                "attention_score": 0.003948211669921875
+            },
+            {
+                "word": "surprise",
+                "attention_score": 0.00370025634765625
+            },
+            {
+                "word": "A",
+                "attention_score": 0.003246307373046875
+            },
+            {
+                "word": "I'm",
+                "attention_score": 0.00264739990234375
+            },
+            {
+                "word": "things",
+                "attention_score": 0.002239227294921875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 45,
+        "text": "Despite having lived here for 10 years, i've never been to portillos, and given this, it's somewhat unlikely i start going now...",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Despite",
+                "attention_score": 0.0048980712890625
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0034580230712890625
+            },
+            {
+                "word": "unlikely",
+                "attention_score": 0.00243377685546875
+            },
+            {
+                "word": "i've",
+                "attention_score": 0.002254486083984375
+            },
+            {
+                "word": "portillos,",
+                "attention_score": 0.0022525787353515625
+            },
+            {
+                "word": "years,",
+                "attention_score": 0.00217437744140625
+            },
+            {
+                "word": "somewhat",
+                "attention_score": 0.002094268798828125
+            },
+            {
+                "word": "10",
+                "attention_score": 0.0020046234130859375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 46,
+        "text": "You sure? They seem so much brighter on screen lol",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"You sure? They seem so much brighter on screen lol\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>neutral</answer>",
+        "predicted_ids": [
+            2
+        ],
+        "predicted_labels": [
+            "neutral"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 47,
+        "text": "This is honestly the cherry on top of the cake with this story. That's absolutely hilarious!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "hilarious!",
+                "attention_score": 0.01168060302734375
+            },
+            {
+                "word": "story.",
+                "attention_score": 0.00847625732421875
+            },
+            {
+                "word": "the",
+                "attention_score": 0.00502777099609375
+            },
+            {
+                "word": "honestly",
+                "attention_score": 0.00428009033203125
+            },
+            {
+                "word": "absolutely",
+                "attention_score": 0.003147125244140625
+            },
+            {
+                "word": "This",
+                "attention_score": 0.00299072265625
+            },
+            {
+                "word": "top",
+                "attention_score": 0.002826690673828125
+            },
+            {
+                "word": "cake",
+                "attention_score": 0.0027008056640625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 48,
+        "text": "You take that back right now! [NAME] does not deserve this.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "now!",
+                "attention_score": 0.0064849853515625
+            },
+            {
+                "word": "back",
+                "attention_score": 0.003936767578125
+            },
+            {
+                "word": "deserve",
+                "attention_score": 0.003875732421875
+            },
+            {
+                "word": "You",
+                "attention_score": 0.00372314453125
+            },
+            {
+                "word": "[NAME]",
+                "attention_score": 0.003215789794921875
+            },
+            {
+                "word": "this.",
+                "attention_score": 0.002925872802734375
+            },
+            {
+                "word": "not",
+                "attention_score": 0.002368927001953125
+            },
+            {
+                "word": "does",
+                "attention_score": 0.0019588470458984375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 49,
+        "text": "OP is just a kid. Let's just move on.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "kid.",
+                "attention_score": 0.008941650390625
+            },
+            {
+                "word": "on.",
+                "attention_score": 0.0037384033203125
+            },
+            {
+                "word": "Let's",
+                "attention_score": 0.0037364959716796875
+            },
+            {
+                "word": "just",
+                "attention_score": 0.00351715087890625
+            },
+            {
+                "word": "is",
+                "attention_score": 0.0033416748046875
+            },
+            {
+                "word": "move",
+                "attention_score": 0.002750396728515625
+            },
+            {
+                "word": "OP",
+                "attention_score": 0.002712249755859375
+            },
+            {
+                "word": "a",
+                "attention_score": 0.0017719268798828125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 50,
+        "text": "They started seeling alcohol a while ago, when she called her mafia friend to get help for the speakeasy.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.0086212158203125
+            },
+            {
+                "word": "They",
+                "attention_score": 0.00421142578125
+            },
+            {
+                "word": "ago,",
+                "attention_score": 0.0029201507568359375
+            },
+            {
+                "word": "mafia",
+                "attention_score": 0.00238800048828125
+            },
+            {
+                "word": "she",
+                "attention_score": 0.0023746490478515625
+            },
+            {
+                "word": "alcohol",
+                "attention_score": 0.002166748046875
+            },
+            {
+                "word": "seeling",
+                "attention_score": 0.0016918182373046875
+            },
+            {
+                "word": "started",
+                "attention_score": 0.00151824951171875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 51,
+        "text": "Get back on your meds mate..You aren't funny at all...",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "funny",
+                "attention_score": 0.006397247314453125
+            },
+            {
+                "word": "meds",
+                "attention_score": 0.006198883056640625
+            },
+            {
+                "word": "mate..You",
+                "attention_score": 0.005832672119140625
+            },
+            {
+                "word": "aren't",
+                "attention_score": 0.0044403076171875
+            },
+            {
+                "word": "Get",
+                "attention_score": 0.004009246826171875
+            },
+            {
+                "word": "all...",
+                "attention_score": 0.003971099853515625
+            },
+            {
+                "word": "back",
+                "attention_score": 0.00191497802734375
+            },
+            {
+                "word": "at",
+                "attention_score": 0.0018587112426757812
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 52,
+        "text": "\"But Aunt [NAME], I don't *want* to send Grandma back to Italy!\"",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"\"But Aunt [NAME], I don't *want* to send Grandma back to Italy!\"\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1,
+            2
+        ],
+        "ground_truth_labels": [
+            "negative",
+            "neutral"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 53,
+        "text": "Even the royals aren't immune to it.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Even",
+                "attention_score": 0.005168914794921875
+            },
+            {
+                "word": "it.",
+                "attention_score": 0.0035839080810546875
+            },
+            {
+                "word": "immune",
+                "attention_score": 0.0034465789794921875
+            },
+            {
+                "word": "aren't",
+                "attention_score": 0.002964019775390625
+            },
+            {
+                "word": "the",
+                "attention_score": 0.0024662017822265625
+            },
+            {
+                "word": "royals",
+                "attention_score": 0.002101898193359375
+            },
+            {
+                "word": "to",
+                "attention_score": 0.0014276504516601562
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 54,
+        "text": "I thought it said “now my biggest fear is the thing living inside my casket” like, *weet doo feek?!*",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "feek?!*",
+                "attention_score": 0.005336761474609375
+            },
+            {
+                "word": "I",
+                "attention_score": 0.0037288665771484375
+            },
+            {
+                "word": "casket”",
+                "attention_score": 0.003448486328125
+            },
+            {
+                "word": "like,",
+                "attention_score": 0.0031871795654296875
+            },
+            {
+                "word": "thought",
+                "attention_score": 0.0029125213623046875
+            },
+            {
+                "word": "fear",
+                "attention_score": 0.002704620361328125
+            },
+            {
+                "word": "*weet",
+                "attention_score": 0.002414703369140625
+            },
+            {
+                "word": "said",
+                "attention_score": 0.0022563934326171875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 55,
+        "text": "It's real and it plays SO OFTEN I CAN'T STAND IT!!",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "IT!!",
+                "attention_score": 0.00982666015625
+            },
+            {
+                "word": "STAND",
+                "attention_score": 0.0071563720703125
+            },
+            {
+                "word": "SO",
+                "attention_score": 0.0036754608154296875
+            },
+            {
+                "word": "I",
+                "attention_score": 0.00347900390625
+            },
+            {
+                "word": "real",
+                "attention_score": 0.00257110595703125
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0024623870849609375
+            },
+            {
+                "word": "It's",
+                "attention_score": 0.00228118896484375
+            },
+            {
+                "word": "OFTEN",
+                "attention_score": 0.001934051513671875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 56,
+        "text": "Yea... I'll have to pass on the carpool with a username like that",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Yea... I'll have to pass on the carpool with a username like that\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 57,
+        "text": "HUGE difference e b/t “seniors housing” and “nursing home.” HUGE DIFFERENCE.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "HUGE",
+                "attention_score": 0.00923919677734375
+            },
+            {
+                "word": "home.”",
+                "attention_score": 0.00666046142578125
+            },
+            {
+                "word": "DIFFERENCE.",
+                "attention_score": 0.004302978515625
+            },
+            {
+                "word": "difference",
+                "attention_score": 0.004192352294921875
+            },
+            {
+                "word": "HUGE",
+                "attention_score": 0.004108428955078125
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0031147003173828125
+            },
+            {
+                "word": "housing”",
+                "attention_score": 0.0023746490478515625
+            },
+            {
+                "word": "e",
+                "attention_score": 0.0022563934326171875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 58,
+        "text": "I'm sorry that's what you read because it isn't what I said.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "sorry",
+                "attention_score": 0.0062103271484375
+            },
+            {
+                "word": "isn't",
+                "attention_score": 0.00580596923828125
+            },
+            {
+                "word": "because",
+                "attention_score": 0.004405975341796875
+            },
+            {
+                "word": "read",
+                "attention_score": 0.0037860870361328125
+            },
+            {
+                "word": "said.",
+                "attention_score": 0.0037593841552734375
+            },
+            {
+                "word": "I'm",
+                "attention_score": 0.00299835205078125
+            },
+            {
+                "word": "I",
+                "attention_score": 0.0019664764404296875
+            },
+            {
+                "word": "that's",
+                "attention_score": 0.001911163330078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 59,
+        "text": "Thank you for articulating this for me. It's just like that.",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "me.",
+                "attention_score": 0.0096893310546875
+            },
+            {
+                "word": "Thank",
+                "attention_score": 0.00867462158203125
+            },
+            {
+                "word": "you",
+                "attention_score": 0.0052490234375
+            },
+            {
+                "word": "like",
+                "attention_score": 0.0031719207763671875
+            },
+            {
+                "word": "articulating",
+                "attention_score": 0.0028076171875
+            },
+            {
+                "word": "It's",
+                "attention_score": 0.0024890899658203125
+            },
+            {
+                "word": "that.",
+                "attention_score": 0.002132415771484375
+            },
+            {
+                "word": "this",
+                "attention_score": 0.002079010009765625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 60,
+        "text": "I didn't know this was a \"reveal\" he'd been talking about for awhile. ",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "awhile.",
+                "attention_score": 0.0084381103515625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.003986358642578125
+            },
+            {
+                "word": "didn't",
+                "attention_score": 0.00350189208984375
+            },
+            {
+                "word": "\"reveal\"",
+                "attention_score": 0.002529144287109375
+            },
+            {
+                "word": "know",
+                "attention_score": 0.0023746490478515625
+            },
+            {
+                "word": "about",
+                "attention_score": 0.0016765594482421875
+            },
+            {
+                "word": "he'd",
+                "attention_score": 0.001476287841796875
+            },
+            {
+                "word": "talking",
+                "attention_score": 0.0012111663818359375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 61,
+        "text": "Loving everyone so far. This is going to be a great season.",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "far.",
+                "attention_score": 0.0083160400390625
+            },
+            {
+                "word": "great",
+                "attention_score": 0.005680084228515625
+            },
+            {
+                "word": "Loving",
+                "attention_score": 0.00525665283203125
+            },
+            {
+                "word": "season.",
+                "attention_score": 0.0043182373046875
+            },
+            {
+                "word": "everyone",
+                "attention_score": 0.004047393798828125
+            },
+            {
+                "word": "to",
+                "attention_score": 0.002349853515625
+            },
+            {
+                "word": "This",
+                "attention_score": 0.002162933349609375
+            },
+            {
+                "word": "so",
+                "attention_score": 0.00212860107421875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 62,
+        "text": "If you have any other links handy I'd love to see them.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "If",
+                "attention_score": 0.005107879638671875
+            },
+            {
+                "word": "love",
+                "attention_score": 0.004627227783203125
+            },
+            {
+                "word": "links",
+                "attention_score": 0.0033721923828125
+            },
+            {
+                "word": "I'd",
+                "attention_score": 0.002532958984375
+            },
+            {
+                "word": "them.",
+                "attention_score": 0.0020961761474609375
+            },
+            {
+                "word": "you",
+                "attention_score": 0.0020351409912109375
+            },
+            {
+                "word": "handy",
+                "attention_score": 0.0019102096557617188
+            },
+            {
+                "word": "any",
+                "attention_score": 0.00135040283203125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 63,
+        "text": "And some of us wish to die first so we don't have to deal with the loneliness.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.00787353515625
+            },
+            {
+                "word": "loneliness.",
+                "attention_score": 0.007534027099609375
+            },
+            {
+                "word": "don't",
+                "attention_score": 0.00472259521484375
+            },
+            {
+                "word": "die",
+                "attention_score": 0.004589080810546875
+            },
+            {
+                "word": "And",
+                "attention_score": 0.00366973876953125
+            },
+            {
+                "word": "wish",
+                "attention_score": 0.0033664703369140625
+            },
+            {
+                "word": "first",
+                "attention_score": 0.003131866455078125
+            },
+            {
+                "word": "so",
+                "attention_score": 0.0027618408203125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 64,
+        "text": "Thanks will check them out!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Thanks",
+                "attention_score": 0.01520538330078125
+            },
+            {
+                "word": "out!",
+                "attention_score": 0.005706787109375
+            },
+            {
+                "word": "check",
+                "attention_score": 0.00507354736328125
+            },
+            {
+                "word": "will",
+                "attention_score": 0.00400543212890625
+            },
+            {
+                "word": "them",
+                "attention_score": 0.0036106109619140625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 65,
+        "text": "I’m so sorry 🤪",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"I’m so sorry 🤪\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 66,
+        "text": "Help, help, I'm being repressed!",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "repressed!",
+                "attention_score": 0.00566864013671875
+            },
+            {
+                "word": "Help,",
+                "attention_score": 0.005611419677734375
+            },
+            {
+                "word": "help,",
+                "attention_score": 0.00339508056640625
+            },
+            {
+                "word": "I'm",
+                "attention_score": 0.002223968505859375
+            },
+            {
+                "word": "being",
+                "attention_score": 0.0020160675048828125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 67,
+        "text": "I know people around here may mock me from my optimism but what if we get actual desings for the crusaders in Heroes?",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.00818634033203125
+            },
+            {
+                "word": "but",
+                "attention_score": 0.0067596435546875
+            },
+            {
+                "word": "optimism",
+                "attention_score": 0.006427764892578125
+            },
+            {
+                "word": "I",
+                "attention_score": 0.003986358642578125
+            },
+            {
+                "word": "what",
+                "attention_score": 0.0035953521728515625
+            },
+            {
+                "word": "mock",
+                "attention_score": 0.0022525787353515625
+            },
+            {
+                "word": "know",
+                "attention_score": 0.0019817352294921875
+            },
+            {
+                "word": "Heroes?",
+                "attention_score": 0.00193023681640625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 68,
+        "text": "Crap. I need more Excedrin. STAT.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Crap.",
+                "attention_score": 0.00716400146484375
+            },
+            {
+                "word": "STAT.",
+                "attention_score": 0.0062103271484375
+            },
+            {
+                "word": "Excedrin.",
+                "attention_score": 0.00455474853515625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.003643035888671875
+            },
+            {
+                "word": "need",
+                "attention_score": 0.0033702850341796875
+            },
+            {
+                "word": "more",
+                "attention_score": 0.0019855499267578125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 69,
+        "text": "Borrowed time is stupid",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Borrowed time is stupid\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 70,
+        "text": "My only issue with private schooling is it discourages those with children in private schools from wanting money to go towards public education.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "is",
+                "attention_score": 0.00818634033203125
+            },
+            {
+                "word": "issue",
+                "attention_score": 0.0045166015625
+            },
+            {
+                "word": "education.",
+                "attention_score": 0.0032176971435546875
+            },
+            {
+                "word": "schooling",
+                "attention_score": 0.003185272216796875
+            },
+            {
+                "word": "My",
+                "attention_score": 0.0031757354736328125
+            },
+            {
+                "word": "with",
+                "attention_score": 0.0024051666259765625
+            },
+            {
+                "word": "discourages",
+                "attention_score": 0.0020904541015625
+            },
+            {
+                "word": "from",
+                "attention_score": 0.0018339157104492188
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 71,
+        "text": "Boomers ruined the world",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Boomers ruined the world\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 72,
+        "text": "It’s Woosh with 4 o’s r/woooosh (The most popular one)",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "(The",
+                "attention_score": 0.0037708282470703125
+            },
+            {
+                "word": "It’s",
+                "attention_score": 0.0029296875
+            },
+            {
+                "word": "popular",
+                "attention_score": 0.002689361572265625
+            },
+            {
+                "word": "with",
+                "attention_score": 0.001987457275390625
+            },
+            {
+                "word": "4",
+                "attention_score": 0.001953125
+            },
+            {
+                "word": "o’s",
+                "attention_score": 0.00191497802734375
+            },
+            {
+                "word": "r/woooosh",
+                "attention_score": 0.0018157958984375
+            },
+            {
+                "word": "most",
+                "attention_score": 0.0017499923706054688
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 73,
+        "text": "Lol looks delicious",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Lol looks delicious\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>positive</answer>",
+        "predicted_ids": [
+            3
+        ],
+        "predicted_labels": [
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 74,
+        "text": "You gotta work on you dude!! If you're not confident you're not ready, get yourself straight And all will fall into place. ",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "place.",
+                "attention_score": 0.0082244873046875
+            },
+            {
+                "word": "dude!!",
+                "attention_score": 0.007099151611328125
+            },
+            {
+                "word": "And",
+                "attention_score": 0.00656890869140625
+            },
+            {
+                "word": "ready,",
+                "attention_score": 0.003528594970703125
+            },
+            {
+                "word": "confident",
+                "attention_score": 0.0035190582275390625
+            },
+            {
+                "word": "You",
+                "attention_score": 0.00335693359375
+            },
+            {
+                "word": "If",
+                "attention_score": 0.0032329559326171875
+            },
+            {
+                "word": "gotta",
+                "attention_score": 0.00274658203125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 75,
+        "text": "Man I hate double standards. I love the show but change the word ‘white’ to ‘black’ and it’s suddenly not funny anymore",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Man I hate double standards. I love the show but change the word ‘white’ to ‘black’ and it’s suddenly not funny anymore\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1,
+            3
+        ],
+        "ground_truth_labels": [
+            "negative",
+            "positive"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 76,
+        "text": "Some great advice right here!!!!!! I forgot about this",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Some great advice right here!!!!!! I forgot about this\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            0,
+            3
+        ],
+        "ground_truth_labels": [
+            "ambiguous",
+            "positive"
+        ],
+        "generated_completion": " <answer>positive</answer>",
+        "predicted_ids": [
+            3
+        ],
+        "predicted_labels": [
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 77,
+        "text": "death of fear is certain.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "death",
+                "attention_score": 0.00994873046875
+            },
+            {
+                "word": "fear",
+                "attention_score": 0.00882720947265625
+            },
+            {
+                "word": "certain.",
+                "attention_score": 0.00797271728515625
+            },
+            {
+                "word": "is",
+                "attention_score": 0.00714111328125
+            },
+            {
+                "word": "of",
+                "attention_score": 0.00457000732421875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 78,
+        "text": "I agree. His parents were very supportive then. When they did a cast change, they decided to make his parents jerks! ",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "jerks!",
+                "attention_score": 0.0069580078125
+            },
+            {
+                "word": "then.",
+                "attention_score": 0.00516510009765625
+            },
+            {
+                "word": "agree.",
+                "attention_score": 0.00507354736328125
+            },
+            {
+                "word": "I",
+                "attention_score": 0.003818511962890625
+            },
+            {
+                "word": "His",
+                "attention_score": 0.0031833648681640625
+            },
+            {
+                "word": "supportive",
+                "attention_score": 0.0027332305908203125
+            },
+            {
+                "word": "change,",
+                "attention_score": 0.0023174285888671875
+            },
+            {
+                "word": "were",
+                "attention_score": 0.0020904541015625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 79,
+        "text": "Eff your video - love Canada 🇨🇦 Stupid geolock",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "-",
+                "attention_score": 0.00678253173828125
+            },
+            {
+                "word": "love",
+                "attention_score": 0.005107879638671875
+            },
+            {
+                "word": "your",
+                "attention_score": 0.0050811767578125
+            },
+            {
+                "word": "🇨🇦",
+                "attention_score": 0.00476837158203125
+            },
+            {
+                "word": "Canada",
+                "attention_score": 0.0047454833984375
+            },
+            {
+                "word": "Eff",
+                "attention_score": 0.0029468536376953125
+            },
+            {
+                "word": "video",
+                "attention_score": 0.0027790069580078125
+            },
+            {
+                "word": "Stupid",
+                "attention_score": 0.0005292892456054688
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 80,
+        "text": "New Haven has tons of locations that have strong cyber punk-y vibes at night!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "vibes",
+                "attention_score": 0.007537841796875
+            },
+            {
+                "word": "night!",
+                "attention_score": 0.005008697509765625
+            },
+            {
+                "word": "tons",
+                "attention_score": 0.004825592041015625
+            },
+            {
+                "word": "has",
+                "attention_score": 0.00411224365234375
+            },
+            {
+                "word": "New",
+                "attention_score": 0.00409698486328125
+            },
+            {
+                "word": "punk-y",
+                "attention_score": 0.003643035888671875
+            },
+            {
+                "word": "Haven",
+                "attention_score": 0.0028209686279296875
+            },
+            {
+                "word": "locations",
+                "attention_score": 0.0025348663330078125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 81,
+        "text": "If he was stuttering the words \"I sell to others and we need to do your time on.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "If",
+                "attention_score": 0.006195068359375
+            },
+            {
+                "word": "stuttering",
+                "attention_score": 0.004608154296875
+            },
+            {
+                "word": "the",
+                "attention_score": 0.003490447998046875
+            },
+            {
+                "word": "he",
+                "attention_score": 0.00347900390625
+            },
+            {
+                "word": "words",
+                "attention_score": 0.00264739990234375
+            },
+            {
+                "word": "sell",
+                "attention_score": 0.0024662017822265625
+            },
+            {
+                "word": "time",
+                "attention_score": 0.0023593902587890625
+            },
+            {
+                "word": "was",
+                "attention_score": 0.002056121826171875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 82,
+        "text": "Thanks for the good news!",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Thanks",
+                "attention_score": 0.0133209228515625
+            },
+            {
+                "word": "news!",
+                "attention_score": 0.00814056396484375
+            },
+            {
+                "word": "the",
+                "attention_score": 0.0073394775390625
+            },
+            {
+                "word": "good",
+                "attention_score": 0.0052337646484375
+            },
+            {
+                "word": "for",
+                "attention_score": 0.0034618377685546875
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 83,
+        "text": "What you mean you weren’t looking forward to that scene? ;)",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": ";)",
+                "attention_score": 0.0093994140625
+            },
+            {
+                "word": "scene?",
+                "attention_score": 0.006381988525390625
+            },
+            {
+                "word": "What",
+                "attention_score": 0.004360198974609375
+            },
+            {
+                "word": "weren’t",
+                "attention_score": 0.003322601318359375
+            },
+            {
+                "word": "forward",
+                "attention_score": 0.0025196075439453125
+            },
+            {
+                "word": "mean",
+                "attention_score": 0.0018033981323242188
+            },
+            {
+                "word": "you",
+                "attention_score": 0.001720428466796875
+            },
+            {
+                "word": "to",
+                "attention_score": 0.0016269683837890625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 84,
+        "text": "If there is no goal on this powerplay it will be difficult not to be hopeless",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"If there is no goal on this powerplay it will be difficult not to be hopeless\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 85,
+        "text": "I'm not sure I have heard of this. Really interesting.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "interesting.",
+                "attention_score": 0.0082855224609375
+            },
+            {
+                "word": "this.",
+                "attention_score": 0.005279541015625
+            },
+            {
+                "word": "sure",
+                "attention_score": 0.00513458251953125
+            },
+            {
+                "word": "I'm",
+                "attention_score": 0.0031890869140625
+            },
+            {
+                "word": "Really",
+                "attention_score": 0.0024585723876953125
+            },
+            {
+                "word": "not",
+                "attention_score": 0.0021877288818359375
+            },
+            {
+                "word": "heard",
+                "attention_score": 0.0020656585693359375
+            },
+            {
+                "word": "of",
+                "attention_score": 0.0018358230590820312
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 86,
+        "text": "Not at all. I'm not going to argue with someone who doesn't understand what a strawman is.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "Not",
+                "attention_score": 0.00508880615234375
+            },
+            {
+                "word": "argue",
+                "attention_score": 0.004863739013671875
+            },
+            {
+                "word": "all.",
+                "attention_score": 0.004802703857421875
+            },
+            {
+                "word": "doesn't",
+                "attention_score": 0.00395965576171875
+            },
+            {
+                "word": "is.",
+                "attention_score": 0.003597259521484375
+            },
+            {
+                "word": "understand",
+                "attention_score": 0.00286865234375
+            },
+            {
+                "word": "strawman",
+                "attention_score": 0.0028228759765625
+            },
+            {
+                "word": "someone",
+                "attention_score": 0.00211334228515625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 87,
+        "text": "I feel you mate",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"I feel you mate\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>neutral</answer>",
+        "predicted_ids": [
+            2
+        ],
+        "predicted_labels": [
+            "neutral"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 88,
+        "text": "Fucking love [NAME]. [NAME] best couple don't @ me",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Fucking love [NAME]. [NAME] best couple don't @ me\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>positive</answer>",
+        "predicted_ids": [
+            3
+        ],
+        "predicted_labels": [
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 89,
+        "text": "Thank you! I call on Monday to find out when I have court",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Thank you! I call on Monday to find out when I have court\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            3
+        ],
+        "ground_truth_labels": [
+            "positive"
+        ],
+        "generated_completion": " <answer>neutral</answer>",
+        "predicted_ids": [
+            2
+        ],
+        "predicted_labels": [
+            "neutral"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 90,
+        "text": ">happily live in any hole they find. What's my love life got to do with this",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \">happily live in any hole they find. What's my love life got to do with this\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            0,
+            3
+        ],
+        "ground_truth_labels": [
+            "ambiguous",
+            "positive"
+        ],
+        "generated_completion": " <answer>neutral</answer>",
+        "predicted_ids": [
+            2
+        ],
+        "predicted_labels": [
+            "neutral"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 91,
+        "text": "Not really cringey. Its not really embarrassing for you i think people might just feel bad upon reading it.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "embarrassing",
+                "attention_score": 0.005352020263671875
+            },
+            {
+                "word": "cringey.",
+                "attention_score": 0.0038299560546875
+            },
+            {
+                "word": "Not",
+                "attention_score": 0.003292083740234375
+            },
+            {
+                "word": "think",
+                "attention_score": 0.0026378631591796875
+            },
+            {
+                "word": "i",
+                "attention_score": 0.0024623870849609375
+            },
+            {
+                "word": "Its",
+                "attention_score": 0.0022640228271484375
+            },
+            {
+                "word": "bad",
+                "attention_score": 0.0021839141845703125
+            },
+            {
+                "word": "it.",
+                "attention_score": 0.0021305084228515625
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 92,
+        "text": "Papa Johns in my area basically gives away their pizza. I can smell the desperation in the store",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Papa Johns in my area basically gives away their pizza. I can smell the desperation in the store\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 93,
+        "text": "I had to write in the Swangas. Seems far better than the choices given.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "the",
+                "attention_score": 0.0131683349609375
+            },
+            {
+                "word": "Seems",
+                "attention_score": 0.00560760498046875
+            },
+            {
+                "word": "better",
+                "attention_score": 0.005008697509765625
+            },
+            {
+                "word": "choices",
+                "attention_score": 0.004791259765625
+            },
+            {
+                "word": "I",
+                "attention_score": 0.0039520263671875
+            },
+            {
+                "word": "than",
+                "attention_score": 0.003902435302734375
+            },
+            {
+                "word": "the",
+                "attention_score": 0.0032596588134765625
+            },
+            {
+                "word": "given.",
+                "attention_score": 0.0030517578125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 94,
+        "text": "I thought this allegation was squashed when it came out. I was surprised to see it still making headlines. Poor guy.",
+        "predicted_labels": [
+            "negative"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "headlines.",
+                "attention_score": 0.00644683837890625
+            },
+            {
+                "word": "Poor",
+                "attention_score": 0.0057373046875
+            },
+            {
+                "word": "out.",
+                "attention_score": 0.005466461181640625
+            },
+            {
+                "word": "guy.",
+                "attention_score": 0.005031585693359375
+            },
+            {
+                "word": "allegation",
+                "attention_score": 0.004970550537109375
+            },
+            {
+                "word": "I",
+                "attention_score": 0.0038967132568359375
+            },
+            {
+                "word": "I",
+                "attention_score": 0.0034961700439453125
+            },
+            {
+                "word": "surprised",
+                "attention_score": 0.0034961700439453125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 95,
+        "text": "BOOM BOOM BOOM (not Bitton related)",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "(not",
+                "attention_score": 0.00519561767578125
+            },
+            {
+                "word": "related)",
+                "attention_score": 0.004505157470703125
+            },
+            {
+                "word": "BOOM",
+                "attention_score": 0.0038089752197265625
+            },
+            {
+                "word": "Bitton",
+                "attention_score": 0.002471923828125
+            },
+            {
+                "word": "BOOM",
+                "attention_score": 0.0016803741455078125
+            },
+            {
+                "word": "BOOM",
+                "attention_score": 0.0013599395751953125
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 96,
+        "text": "Because of this bad situation some people are afraid of becoming youtubers because of this",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Because of this bad situation some people are afraid of becoming youtubers because of this\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            1
+        ],
+        "ground_truth_labels": [
+            "negative"
+        ],
+        "generated_completion": " <answer>negative</answer>",
+        "predicted_ids": [
+            1
+        ],
+        "predicted_labels": [
+            "negative"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 97,
+        "text": "That’s how you know they’re happy.",
+        "predicted_labels": [
+            "neutral"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "happy.",
+                "attention_score": 0.006946563720703125
+            },
+            {
+                "word": "That’s",
+                "attention_score": 0.0034637451171875
+            },
+            {
+                "word": "know",
+                "attention_score": 0.0023670196533203125
+            },
+            {
+                "word": "how",
+                "attention_score": 0.0019502639770507812
+            },
+            {
+                "word": "they’re",
+                "attention_score": 0.001277923583984375
+            },
+            {
+                "word": "you",
+                "attention_score": 0.001155853271484375
+            }
+        ],
+        "analysis_status": "Success"
+    },
+    {
+        "id": 98,
+        "text": "Incoming 20m a year contract [NAME] !!!",
+        "prompt": "You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n[ambiguous, negative, neutral, positive]\n\nText: \"Incoming 20m a year contract [NAME] !!!\"\n\nFormat your output strictly as: <answer>emotion1, emotion2</answer>\nIf there is only one emotion: <answer>emotion1</answer>\nAnswer:",
+        "ground_truth_ids": [
+            2
+        ],
+        "ground_truth_labels": [
+            "neutral"
+        ],
+        "generated_completion": " <answer>positive</answer>",
+        "predicted_ids": [
+            3
+        ],
+        "predicted_labels": [
+            "positive"
+        ],
+        "analysis_status": "Skipped: Could not map raw text string match to prompt token indices."
+    },
+    {
+        "id": 99,
+        "text": "I’m so proud of you for taking care of you and your babies, mama! We love you and stay strong.",
+        "predicted_labels": [
+            "positive"
+        ],
+        "attention_aggregation_method": "Attention of predicted emotion tokens (Query) on raw_text tokens (Key), averaged and aggregated to words.",
+        "attention_layer_info": "Average Attention (All Layers & Heads)",
+        "top_important_words": [
+            {
+                "word": "mama!",
+                "attention_score": 0.00818634033203125
+            },
+            {
+                "word": "babies,",
+                "attention_score": 0.0049285888671875
+            },
+            {
+                "word": "proud",
+                "attention_score": 0.004825592041015625
+            },
+            {
+                "word": "strong.",
+                "attention_score": 0.00457000732421875
+            },
+            {
+                "word": "love",
+                "attention_score": 0.003665924072265625
+            },
+            {
+                "word": "you",
+                "attention_score": 0.0034503936767578125
+            },
+            {
+                "word": "and",
+                "attention_score": 0.0029697418212890625
+            },
+            {
+                "word": "I’m",
+                "attention_score": 0.0028514862060546875
+            }
+        ],
+        "analysis_status": "Success"
+    }
+]
