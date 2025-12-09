@@ -12,7 +12,7 @@ from tqdm import tqdm
 DEFAULT_MODEL_PATH = '/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen3-8B/'
 DEFAULT_PREDICTION_FILE = "predictions.json"
 model_name_for_default = "Qwen3-8B"
-DEFAULT_EVAL_OUTPUT_DIR = f"/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/GoEmotions-pytorch/evaluation_results/{model_name_for_default}"
+DEFAULT_EVAL_OUTPUT_DIR = f"/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/evaluation_results/{model_name_for_default}"
 
 DEFAULT_N_TOP_TOKENS = 8
 DEFAULT_NUM_SAMPLES = 100
