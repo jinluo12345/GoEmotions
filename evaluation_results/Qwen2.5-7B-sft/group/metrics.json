@@ -1,0 +1,56 @@
+{
+    "model_path": "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/sft_output/Qwen2.5-7B-Instruct/group/Qwen2.5-7b-sft",
+    "backend": "vllm",
+    "use_cot": false,
+    "exact_match_accuracy": 0.6176524783489957,
+    "classification_report": {
+        "ambiguous": {
+            "precision": 0.4928400954653938,
+            "recall": 0.6100443131462334,
+            "f1-score": 0.5452145214521452,
+            "support": 677.0
+        },
+        "negative": {
+            "precision": 0.6160593792172739,
+            "recall": 0.7234548335974643,
+            "f1-score": 0.6654518950437318,
+            "support": 1262.0
+        },
+        "neutral": {
+            "precision": 0.7226130653266332,
+            "recall": 0.40235030777839953,
+            "f1-score": 0.5168943206326384,
+            "support": 1787.0
+        },
+        "positive": {
+            "precision": 0.7819514429683921,
+            "recall": 0.8113117870722434,
+            "f1-score": 0.7963610916724982,
+            "support": 2104.0
+        },
+        "micro avg": {
+            "precision": 0.682429974536195,
+            "recall": 0.6435677530017153,
+            "f1-score": 0.6624293785310734,
+            "support": 5830.0
+        },
+        "macro avg": {
+            "precision": 0.6533659957444232,
+            "recall": 0.6367903103985851,
+            "f1-score": 0.6309804572002534,
+            "support": 5830.0
+        },
+        "weighted avg": {
+            "precision": 0.6942804571091702,
+            "recall": 0.6435677530017153,
+            "f1-score": 0.6531980120785168,
+            "support": 5830.0
+        },
+        "samples avg": {
+            "precision": 0.6840796019900498,
+            "recall": 0.6573613414409434,
+            "f1-score": 0.6647933173637982,
+            "support": 5830.0
+        }
+    }
+}

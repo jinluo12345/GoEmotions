@@ -1,0 +1,56 @@
+{
+    "model_path": "/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen2.5-0.5B-Instruct/",
+    "backend": "vllm",
+    "use_cot": false,
+    "exact_match_accuracy": 0.027271052146674038,
+    "classification_report": {
+        "ambiguous": {
+            "precision": 0.164021164021164,
+            "recall": 0.0915805022156573,
+            "f1-score": 0.11753554502369669,
+            "support": 677.0
+        },
+        "negative": {
+            "precision": 0.259375,
+            "recall": 0.13153724247226625,
+            "f1-score": 0.17455310199789695,
+            "support": 1262.0
+        },
+        "neutral": {
+            "precision": 0.2881844380403458,
+            "recall": 0.05595970900951315,
+            "f1-score": 0.09372071227741331,
+            "support": 1787.0
+        },
+        "positive": {
+            "precision": 0.6881720430107527,
+            "recall": 0.060836501901140684,
+            "f1-score": 0.11179039301310044,
+            "support": 2104.0
+        },
+        "micro avg": {
+            "precision": 0.2940038684719536,
+            "recall": 0.07821612349914236,
+            "f1-score": 0.12356049315810866,
+            "support": 5830.0
+        },
+        "macro avg": {
+            "precision": 0.34993816126806565,
+            "recall": 0.08497848889964435,
+            "f1-score": 0.12439993807802685,
+            "support": 5830.0
+        },
+        "weighted avg": {
+            "precision": 0.41188218650343905,
+            "recall": 0.07821612349914236,
+            "f1-score": 0.1205048848098953,
+            "support": 5830.0
+        },
+        "samples avg": {
+            "precision": 0.05632332166328849,
+            "recall": 0.0777593513911922,
+            "f1-score": 0.06263128800442233,
+            "support": 5830.0
+        }
+    }
+}

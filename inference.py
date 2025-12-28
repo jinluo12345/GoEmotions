@@ -11,10 +11,9 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import MultiLabelBinarizer
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-# 默认路径配置
-DEFAULT_MODEL_PATH = '/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen3-8B/'
-DEFAULT_LABEL_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/labels.txt"
-DEFAULT_TEST_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/test.tsv"
+DEFAULT_MODEL_PATH = '/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/grpo_output/Qwen2.5-7B-Instruct/original/Qwen2.5-7b-grpo'
+DEFAULT_LABEL_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/labels.txt"
+DEFAULT_TEST_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/test.tsv"
 DEFAULT_OUTPUT_DIR = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/evaluation_results"
 
 def load_labels(label_path: str) -> List[str]:
@@ -46,19 +45,21 @@ def create_prompts(texts: List[str], labels: List[str], use_cot: bool = False) -
             prompt = (
                 f"You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n"
                 f"[{label_str}]\n\n"
-                f"Text: \"{text}\"\n\n"
-                f"First, analyze the text step-by-step to determine the underlying emotions.\n Put your thinking inside <reason></reason>.\n"
+                f"First, analyze the text step-by-step to determine the underlying emotions.\n"
+                f"Put your thinking process inside <think> ...</think> tags.\n" 
                 f"Then, format your final answer strictly as: <answer>emotion1, emotion2</answer>\n"
-                f"If there is only one emotion: <answer>emotion1</answer>\n"
+                f"If there is only one emotion: <answer>emotion1</answer>"
+                f"Text: \"{text}\"\n\n"
             )
         else:
             # 原始 Prompt (直接输出结果)
             prompt = (
-                f"You are an emotion classification expert. Identify one or more emotions in the text from the following list:\n"
+                f"You are an emotion classification expert. Identify one or more emotions"
+                f"in the text from the following list:\n"
                 f"[{label_str}]\n\n"
-                f"Text: \"{text}\"\n\n"
                 f"Format your output strictly as: <answer>emotion1, emotion2</answer>\n"
                 f"If there is only one emotion: <answer>emotion1</answer>\n"
+                f"Text: \"{text}\"\n\n"
                 f"Answer:"
             )
         prompts.append(prompt)
@@ -253,10 +254,23 @@ def main(args):
     
     # 5. 保存结果
     model_name = os.path.basename(os.path.normpath(args.model_path))
-    if args.use_cot:
-        model_name += "_cot"
+    
+    # --- 关键修改：提取数据类型 ---
+    try:
+        # 假设路径格式为 .../data/{data_type}/...
+        path_parts = os.path.normpath(args.test_path).split(os.sep)
+        data_index = path_parts.index('data')
+        data_type = path_parts[data_index + 1] # 提取 'data' 后面的文件夹名，例如 'original' 或 'group'
+    except (ValueError, IndexError):
+        data_type = "default_data"
         
-    output_dir = os.path.join(args.output_dir, model_name)
+    # --- 构建最终的模型名称 (模型名 + 数据类型 + CoT 标志) ---
+    final_model_name = f"{model_name}"
+    if args.use_cot:
+        final_model_name += "_cot"
+        
+    output_dir = os.path.join(args.output_dir, final_model_name)
+    output_dir = os.path.join(output_dir, data_type)
     os.makedirs(output_dir, exist_ok=True)
     
     save_json(os.path.join(output_dir, "predictions.json"), saved_records)
