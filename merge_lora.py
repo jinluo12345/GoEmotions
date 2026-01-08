@@ -50,9 +50,9 @@ def merge_latest_model(base_model_path, training_output_dir, final_output_path):
 
 if __name__ == "__main__":
 
-    base_model_path = "/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen2.5-7B-Instruct"
-    training_output_dir = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/grpo_output/Qwen2.5-7B-Instruct/original/checkpoint-678"
-    final_output_path = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/grpo_output/Qwen2.5-7B-Instruct/original/Qwen2.5-7b-grpo"
+    base_model_path = "Qwen2.5-7B-Instruct"
+    training_output_dir = "grpo_output/Qwen2.5-7B-Instruct/original/checkpoint-678"
+    final_output_path = "grpo_output/Qwen2.5-7B-Instruct/original/Qwen2.5-7b-grpo"
     merge_latest_model(base_model_path, training_output_dir, final_output_path)
         
     print("\n使用方法:")

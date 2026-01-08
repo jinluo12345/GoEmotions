@@ -3,7 +3,7 @@ from huggingface_hub import snapshot_download
 model_id = "Qwen/Qwen2.5-3B-Instruct"
 
 # 你想要的最终目录（文件直接放在这里）
-target_dir = "/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen2.5-3B-Instruct"
+target_dir = "Qwen2.5-3B-Instruct"
 
 snapshot_download(
     repo_id=model_id,

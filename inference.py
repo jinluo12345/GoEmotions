@@ -11,10 +11,10 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import MultiLabelBinarizer
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-DEFAULT_MODEL_PATH = '/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/grpo_output/Qwen2.5-7B-Instruct/original/Qwen2.5-7b-grpo'
-DEFAULT_LABEL_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/labels.txt"
-DEFAULT_TEST_PATH = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/test.tsv"
-DEFAULT_OUTPUT_DIR = "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/evaluation_results"
+DEFAULT_MODEL_PATH = 'grpo_output/Qwen2.5-7B-Instruct/original/Qwen2.5-7b-grpo'
+DEFAULT_LABEL_PATH = "data/original/labels.txt"
+DEFAULT_TEST_PATH = "data/original/test.tsv"
+DEFAULT_OUTPUT_DIR = "evaluation_results"
 
 def load_labels(label_path: str) -> List[str]:
     if not os.path.exists(label_path):

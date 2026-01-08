@@ -12,7 +12,7 @@ from transformers import (
 class MultiLabelPipeline(Pipeline):
     def __init__(
             self,
-            model: Union["PreTrainedModel", "TFPreTrainedModel"],
+            model,
             tokenizer: PreTrainedTokenizer,
             modelcard: Optional[ModelCard] = None,
             framework: Optional[str] = None,

@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # --- 1. Environment Variables and Paths ---
-MODEL_PATH="/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen2.5-7B-Instruct/"
-LABEL_PATH="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/labels.txt"
-TRAIN_DATA_PATH="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/train.tsv"
-TEST_DATA_PATH="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/original/test_small.tsv"
+MODEL_PATH="Qwen2.5-7B-Instruct/"
+LABEL_PATH="data/original/labels.txt"
+TRAIN_DATA_PATH="data/original/train.tsv"
+TEST_DATA_PATH="data/original/test_small.tsv"
 
 TRAINING_SCRIPT="main_SFT.py"
 

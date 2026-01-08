@@ -1,15 +1,15 @@
 #!/bin/bash
 
 # --- 1. 定义可传入的参数 ---
-MODEL_PATH="/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen2.5-7B-Instruct/"
-LABEL_PATH="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/labels.txt"
-TRAIN_PATH="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/train.tsv"
-TEST_PATH="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/test_small.tsv"
+MODEL_PATH="Qwen2.5-7B-Instruct/"
+LABEL_PATH="data/group/labels.txt"
+TRAIN_PATH="data/group/train.tsv"
+TEST_PATH="data/group/test_small.tsv"
 # -----------------------------
 
 # --- 指定 accelerate 可执行文件的路径 ---
 # accelerate 可执行文件通常在 anaconda3/envs/ssl/bin/accelerate
-ACCELERATE_BIN="/inspire/hdd/project/exploration-topic/public/lzjjin/anaconda3/envs/ssl/bin/accelerate"
+ACCELERATE_BIN="/anaconda3/envs/ssl/bin/accelerate"
 # ----------------------------------------
 
 
@@ -24,7 +24,7 @@ export WANDB_MODE=disabled
 SCRIPT_NAME="main_grpo.py"
 
 # --- 2. 构造新的 OUTPUT_DIR 和 LOG_DIR ---
-BASE_OUTPUT_DIR="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/grpo_output"
+BASE_OUTPUT_DIR="grpo_output"
 
 # 提取模型名称
 # 使用 readlink -f 获取绝对路径并处理斜杠，然后用 basename 提取

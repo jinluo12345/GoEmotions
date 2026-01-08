@@ -21,25 +21,25 @@ def parse_args():
     parser.add_argument(
         "--model_path",
         type=str,
-        default='/inspire/hdd/project/exploration-topic/public/downloaded_ckpts/Qwen2.5-7B-Instruct/',
+        default='Qwen2.5-7B-Instruct/',
         help="Path to the pretrained CausalLM model."
     )
     parser.add_argument(
         "--label_path",
         type=str,
-        default="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/labels.txt",
+        default="data/group/labels.txt",
         help="Path to the labels.txt file."
     )
     parser.add_argument(
         "--train_data_path",
         type=str,
-        default="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/train.tsv",
+        default="data/group/train.tsv",
         help="Path to the training data TSV file."
     )
     parser.add_argument(
         "--test_data_path",
         type=str,
-        default="/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/data/group/test_small.tsv",
+        default="data/group/test_small.tsv",
         help="Path to the testing/evaluation data TSV file."
     )
     parser.add_argument(
@@ -165,7 +165,7 @@ def main():
         data_group = "default_data_type"
 
     OUTPUT_DIR = os.path.join(
-        "/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/sft_output",
+        "sft_output",
         model_name,
         data_group
     )

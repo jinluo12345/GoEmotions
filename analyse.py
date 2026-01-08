@@ -9,11 +9,11 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
 from tqdm import tqdm
 
 # --- 保留原始默认配置 ---
-DEFAULT_MODEL_PATH = '/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/sft_output/Qwen2.5-7B-Instruct/group/Qwen2.5-7b-sft'
+DEFAULT_MODEL_PATH = 'Qwen2.5-7b-sft'
 DEFAULT_PREDICTION_FILE = "predictions.json"
 model_name_for_default = "Qwen2.5-7B-sft"
 
-BASE_EVAL_OUTPUT_DIR = f"/inspire/hdd/project/exploration-topic/public/lzjjin/course/Goemotions/evaluation_results/{model_name_for_default}/group"
+BASE_EVAL_OUTPUT_DIR = f"/evaluation_results/{model_name_for_default}/group"
 
 DEFAULT_NUM_SAMPLES = 100
 
